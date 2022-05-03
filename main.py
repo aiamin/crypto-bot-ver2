@@ -8,7 +8,7 @@ from datetime import datetime
 
 
 exchange = ccxt.binance()
-discord_webhook_url = "https://discord.com/api/webhooks/962754927896195103/rC9nH7foyWOmQGpa9LRBOUF3s390UQe_1Lgs_S9I6FLmCVXvupY9_ZUXDHPuFvA5JxBI"
+discord_webhook_url = "https://discord.com/api/webhooks/..."
 in_position = False
 
 
